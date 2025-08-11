@@ -5,7 +5,7 @@
 
 <p align="center" dir="auto">
   <!-- Social Media -->
-  <a href="https://www.linkedin.com/in/qintomb/" target="_blank">
+  <a href="https://www.linkedin.com/in/qintmb/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" 
        alt="LinkedIn: Qintomb">
 </a>
