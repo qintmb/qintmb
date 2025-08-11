@@ -45,7 +45,7 @@
 </p>
 
 <p align="center" dir="auto">
-<h4 align="center"><samp> Skills & Knowlegde that I have Advancing </samp></h4>
+<h4 align="center"><samp>⚡️ Skills & Knowlegde that I have Advancing </samp></h4>
 
 <p align="center"> 
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
