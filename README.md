@@ -42,6 +42,36 @@
          alt="GitHub Streak QINTOMB">
   </a>
 </p>
+
+<p align="center" dir="auto">
+<h4 align="center"><samp> Skills & Knowlegde that I have Advancing </samp></h4>
+
+<p align="center"> 
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
+  </a>
+
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  </a>
+
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white">
+  </a>
+</p>
+
 <p align="center">
   <a href="https://github.com/qintmb/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=qintmb&theme=onedark&row=1&column=8" alt="trophy" />
