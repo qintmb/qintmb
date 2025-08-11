@@ -32,3 +32,4 @@
          alt="GitHub Streak QINTOMB">
   </a>
 </p>
+<p dir="auto"><a href="https://github.com/qintmb/github-profile-trophy"><img src="https://camo.githubusercontent.com/8b6b4c5a5c7b4f643ca17f29a52f1a6666b8dbcea56ec5cc528e36099ff93e34/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d676b68616e323035267468656d653d6f6e656461726b" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=qintmb;theme=onedark" style="max-width: 100%;"></a></p>
