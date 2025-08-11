@@ -50,6 +50,10 @@
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
     <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
   </a>
+  
+   <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+    <img src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+  </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
     <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
