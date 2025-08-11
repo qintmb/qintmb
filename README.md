@@ -34,6 +34,6 @@
 </p>
 <p align="center">
   <a href="https://github.com/qintmb/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=qintmb&theme=onedark&row=2&column=4" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=qintmb&theme=onedark&row=1&column=8" alt="trophy" />
   </a>
 </p>
