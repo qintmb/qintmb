@@ -24,8 +24,7 @@
        alt="Qintomb Web" 
        style="width: 50px; height: auto; max-width: 100%;">
 </a>
-
-</p>
+<a href="https://komarev.com/ghpvc/?username=qintmb" rel="nofollow"><img src="https://camo.githubusercontent.com/aeb622cad95f012aeba7b790256372ba72ab5559e8a854d6c0ff458c61d91e59/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6173686c65796d6176657269636b7326636f6c6f723d726564267374796c653d666c6174" alt="ProfileViews" data-canonical-src="https://komarev.com/ghpvc/?username=qintmb&amp;color=red&amp;style=flat" style="max-width: 100%;"></a>
 
 <p align="center" dir="auto">
   <!-- GitHub Stats -->
