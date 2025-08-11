@@ -3,11 +3,10 @@
 
 <p align="center" dir="auto">
   <!-- Social Media -->
-  <a href="https://www.linkedin.com/in/qintomb/" style="text-decoration:none;" rel="nofollow">
-    <img src="https://img.shields.io/badge/-Qintomb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/qintomb/" 
-         alt="Linkedin: Qintomb" 
-         style="max-width: 100%;">
-  </a>
+  <a href="https://www.linkedin.com/in/qintomb/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" 
+       alt="LinkedIn: Qintomb">
+</a>
   <a href="https://github.com/qintmb" style="text-decoration:none;">
     <img src="https://img.shields.io/github/followers/qintmb?label=Qintomb&style=social" 
          alt="GitHub QINTOMB" 
