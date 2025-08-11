@@ -19,11 +19,11 @@
          style="max-width: 100%;">
   </a>
 <a href="https://www.instagram.com/qintomb/" rel="nofollow"><img src="https://camo.githubusercontent.com/66884d01129f7e45326198a953d27ae332fa283e2d8f7ff061e7e6738e992bfb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d6534343035663f7374796c653d666c61742d737175617265266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e696e7374616772616d2e636f6d2f726f7368616e6a617972616a2f" alt="Instagram Badge" data-canonical-src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&amp;logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/qintomb/" style="max-width: 100%;"></a>
-
- <a href="https://qintomb.qzz.io" rel="nofollow" target="_blank">
-  <img src="https://img.shields.io/badge/-Qintomb%20Web-ff0000?style=flat-square&logo=About.me&logoColor=white" 
+  
+<a href="https://qintomb.qzz.io" rel="nofollow" target="_blank">
+  <img src="https://framerusercontent.com/images/8rCZlFSngi2ZZx65oWKYGiKZ4.png?scale-down-to=512" 
        alt="Qintomb Web" 
-       style="max-width: 100%;">
+       style="width: 50px; height: auto; max-width: 100%;">
 </a>
 
 </p>
