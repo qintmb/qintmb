@@ -17,3 +17,18 @@
          style="max-width: 100%;">
   </a>
 </p>
+<p align="center" dir="auto">
+  <!-- GitHub Stats -->
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/qintmb">
+    <img src="https://github-readme-stats.vercel.app/api?username=qintmb&show_icons=true&theme=dark" 
+         width="400" 
+         alt="GitHub Stats QINTOMB">
+  </a>
+
+  <!-- GitHub Streak Stats -->
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/qintmb">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=qintmb&theme=dark&hide_border=true" 
+         width="400" 
+         alt="GitHub Streak QINTOMB">
+  </a>
+</p>
